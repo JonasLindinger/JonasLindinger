@@ -7,6 +7,9 @@
 
 - 📫 How to reach me **lindinger.jonas.2008@gmail.com**
 
+- !! NOT A VIBECODER !!
+- I see AI as a tool to generate small sections of code or README's. But I do not generate more then ~5% of the code!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="somniumcrafter" height="30" width="40" /></a>
