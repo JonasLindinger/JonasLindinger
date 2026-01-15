@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Jonas Lindinger</h1>
 <h3 align="left">A 17 years old German Student, who is interested in Network, Backend, Apps and Videogames</h3>
 
-- 🔭 I’m currently working on **<a href="https://github.com/JonasLindinger/Untis-Client">Untis client</a>, <a href="https://github.com/JonasLindinger/Dijkstra-GFS">Dijkstra demo</a> and <a href="https://github.com/JonasLindinger/NetRewind">NetRewind</a>**
+- 🔭 I’m currently working on **<a href="https://github.com/JonasLindinger/NetRewind">NetRewind</a>**
 
 - 🌱 I’m currently learning **UML and C++ (in School)**
 
