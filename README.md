@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **lindinger.jonas.2008@gmail.com**
 
+- 🌐 Website **jonaslindinger.de**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   Discord: somniumcrafter aka Lindling
