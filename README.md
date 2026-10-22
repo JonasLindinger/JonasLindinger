@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonas Lindinger</h1>
-<h3 align="center">A 17 years old German Student, who is interested in Networking, Backend, Apps and Videogames</h3>
+<h3 align="center">A 18 years old German Student, who is interested in Networking, Backend, Apps and Videogames</h3>
 
 - 🔭 I’m currently working on [NetRewind](https://github.com/JonasLindinger/NetRewind)
 
